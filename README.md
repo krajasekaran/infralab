@@ -1,0 +1,2 @@
+# infralab
+puppet-infrastructure-lab
